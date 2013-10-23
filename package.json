@@ -1,0 +1,26 @@
+{
+  "name": "imgcrush",
+  "version": "0.0.1",
+  "description": "Online image compress and resize tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "jade": "*",
+    "express": "3",
+    "magickwand": "0",
+    "request": "0",
+    "hiredis": "0",
+    "async": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vnykmshr/imgcrush.git"
+  },
+  "author": "Vinayak Mishra <viks@vnykmshr.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnykmshr/imgcrush/issues"
+  }
+}
