@@ -17,4 +17,4 @@ On Ubuntu,
 sudo apt-get install libmagickwand-dev
 ```
 
-For more info: [![magickwand](https://github.com/qzaidi/magickwand)](https://github.com/qzaidi/magickwand)
+For more info: [https://github.com/qzaidi/magickwand](https://github.com/qzaidi/magickwand)
